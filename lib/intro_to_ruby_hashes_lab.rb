@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  {"String Key" => "String Value"
+  {"String Key" => "String Value"}
 end
 
 def pioneer
